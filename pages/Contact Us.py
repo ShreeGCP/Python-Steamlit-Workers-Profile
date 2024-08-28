@@ -1,2 +1,2 @@
 import streamlit as st
-st.header("Shridhara Devadiga")
+st.header("Shridhara Devadig a")
